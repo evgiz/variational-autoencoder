@@ -10,4 +10,6 @@
 
 - Scikit-image
 
-  
+### Writeup
+
+Read my article about this project [here](http://evgiz.net/article/2019/02/06/)!
