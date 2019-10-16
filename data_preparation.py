@@ -1,5 +1,5 @@
 """
-Autor: Sigve Rokenes
+Author: Sigve Rokenes
 Date: February, 2019
 
 Data preparation
